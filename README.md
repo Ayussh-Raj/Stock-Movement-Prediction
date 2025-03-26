@@ -1,4 +1,4 @@
-# Stock Price Prediction using Hybrid Market Knowledge Graphs & Dual Attention Networks
+# Stock Movement Prediction using Hybrid Market Knowledge Graphs & Dual Attention Networks
 
 ## 📌 Introduction
 This project focuses on **predicting stock movements** by leveraging a **bi-typed hybrid-relational market knowledge graph** and **Dual Attention Networks (DAN)**. The approach integrates **graph-based modeling** and **deep learning techniques** to improve accuracy in financial market predictions.
