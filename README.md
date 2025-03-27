@@ -1,4 +1,5 @@
-**Stock Movement Prediction Used Bi-typed Hybrid-relational Market Knowledge Graph via Dual Attention Networks**
+[Stock Movement Prediction Used Bi-typed Hybrid-relational Market Knowledge Graph via Dual Attention Networks]()
+
 
 
 ## 📌 Introduction
