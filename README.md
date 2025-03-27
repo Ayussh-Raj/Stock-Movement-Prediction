@@ -24,9 +24,19 @@ This project focuses on **predicting stock movements** by leveraging a **bi-type
 ```bash
 pip install torch torchvision torchaudio torch-geometric numpy scikit-learn matplotlib networkx dill
 ```
+OR
+
+pip install -r requirements.txt
+
 
 ### 2️⃣ Download the Dataset
 Ensure the **data** folder contains processed stock and executive relations.
+
+The two datasets for SMP with their folder names are given below.
+
+CSI100E
+CSI300Epip install -r requirements.txt
+
 
 ### 3️⃣ Run the Training Script
 ```bash
